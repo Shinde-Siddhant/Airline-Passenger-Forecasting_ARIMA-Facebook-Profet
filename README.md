@@ -33,3 +33,18 @@ A Time Series Forecasting Problem predicting the future Airline passengers based
 
 ## Result
 - Our predictive model demonstrated promising results in predicting the future passengers.
+- **Decomposition Plot**
+<img src="https://github.com/Shinde-Siddhant/Airline-Passenger-Forecasting_ARIMA-Facebook-Profet/assets/137042686/43f28dab-d169-473b-a272-cce388eca3a9" width="600">
+
+- **ARIMA_Existing data prediction**
+<img src="https://github.com/Shinde-Siddhant/Airline-Passenger-Forecasting_ARIMA-Facebook-Profet/assets/137042686/9900d6c0-36b5-4efe-b43e-7a468a1fe53f" width="600">
+
+- **ARIMA_Future data forecasting**
+<img src="https://github.com/Shinde-Siddhant/Airline-Passenger-Forecasting_ARIMA-Facebook-Profet/assets/137042686/c9278be6-23d3-4ad6-a613-6d6ff88c0831" width="600">
+
+- **Facebook Profet Model_Forecasting**
+<img src="https://github.com/Shinde-Siddhant/Airline-Passenger-Forecasting_ARIMA-Facebook-Profet/assets/137042686/4ddaf386-2de8-4a8f-b044-73720292d08c" width="600">
+
+- **Facebook Profet_Performance Metrics**
+<img src="https://github.com/Shinde-Siddhant/Airline-Passenger-Forecasting_ARIMA-Facebook-Profet/assets/137042686/e999a4c5-d2ba-4f8a-bbc9-7791dfd1919b" width="600">
+
