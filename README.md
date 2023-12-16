@@ -18,7 +18,7 @@ A Time Series Forecasting Problem predicting the future Airline passengers based
 
 ## Dataset
 - The dataset contains 144 months data with variable "Months" and "Thousands of Passengers". Our target variable is "Thousands of Passengers".
-- The dataset is available at [Dataset] (https://github.com/Shinde-Siddhant/Airline-Passenger-Forecasting_ARIMA-Facebook-Profet/blob/main/Dataset/airline_passengers.csv)
+- The dataset is available at [Dataset](https://github.com/Shinde-Siddhant/Airline-Passenger-Forecasting_ARIMA-Facebook-Profet/blob/main/Dataset/airline_passengers.csv)
 
 ## Challenge
 - **Seasonality and Trends**: Time series data often exhibits repeating patterns (seasonality) and long-term trends, making it essential to identify and account for these patterns during forecasting.
@@ -33,8 +33,8 @@ A Time Series Forecasting Problem predicting the future Airline passengers based
 
 ## Result
 - Our predictive model demonstrated promising results in predicting the future passengers.
-- ![Decomposition Plot](image.png)
-- ![ARIMA - Forecasted Existing Data Plot](image-1.png)
-- ![ARIMA - Future 5 years Forecasting](image-2.png) 
-- ![Facebook Profet Model Prediction](image-3.png)
-- ![Facebook Profet Model - Performance Metrics Plot](image-4.png) 
+![Decomposition Plot](image.png)
+![ARIMA - Forecasted Existing Data Plot](image-1.png)
+![ARIMA - Future 5 years Forecasting](image-2.png) 
+![Facebook Profet Model Prediction](image-3.png)
+![Facebook Profet Model - Performance Metrics Plot](image-4.png) 
