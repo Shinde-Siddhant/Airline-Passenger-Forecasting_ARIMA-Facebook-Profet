@@ -33,8 +33,3 @@ A Time Series Forecasting Problem predicting the future Airline passengers based
 
 ## Result
 - Our predictive model demonstrated promising results in predicting the future passengers.
-![Decomposition Plot](image.png)
-![ARIMA - Forecasted Existing Data Plot](image-1.png)
-![ARIMA - Future 5 years Forecasting](image-2.png) 
-![Facebook Profet Model Prediction](image-3.png)
-![Facebook Profet Model - Performance Metrics Plot](image-4.png) 
