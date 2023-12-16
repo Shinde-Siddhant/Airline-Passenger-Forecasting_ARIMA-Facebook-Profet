@@ -11,7 +11,7 @@ A Time Series Forecasting Problem predicting the future Airline passengers based
 
 ## Project Overview
 - This project aims to construct a resilient time series forecasting model, leveraging historical data, to accurately predict future airline passenger counts. By harnessing advanced analytics and machine learning techniques, this initiative seeks to optimize resource utilization, streamline schedules, and enhance the overall travel experience. The project's core objective is to deliver a reliable forecasting solution that empowers stakeholders in making informed decisions and proactively addressing the challenges posed by the ever-evolving airline industry.
-- The Project Notebook is available at [Jupyter Project Notebook] (https://github.com/Shinde-Siddhant/Airline-Passenger-Forecasting_ARIMA-Facebook-Profet/blob/main/Project%20Notebook/Final_Time%20Series%20Analytics%20and%20Forecasting_Airline%20Passengers.ipynb)
+- The Project Notebook is available at [Jupyter Project Notebook](https://github.com/Shinde-Siddhant/Airline-Passenger-Forecasting_ARIMA-Facebook-Profet/blob/main/Project%20Notebook/Final_Time%20Series%20Analytics%20and%20Forecasting_Airline%20Passengers.ipynb)
 
 ## Problem Statement
 - The airline industry is highly dynamic, with passenger demand fluctuating based on various factors such as seasonality, holidays, and economic conditions. Accurate forecasting of airline passenger numbers is crucial for optimizing resources, managing schedules, and ensuring a seamless travel experience for passengers. The goal of this project is to develop a robust time series forecasting model to predict future airline passenger counts based on historical data.
@@ -33,8 +33,8 @@ A Time Series Forecasting Problem predicting the future Airline passengers based
 
 ## Result
 - Our predictive model demonstrated promising results in predicting the future passengers.
-- ![Decomposition Plot] (image.png)
-- ![ARIMA - Forecasted Existing Data Plot] (image-1.png)
-- ![ARIMA - Future 5 years Forecasting] (image-2.png) 
-- ![Facebook Profet Model Prediction] (image-3.png)
-- ![Facebook Profet Model - Performance Metrics Plot] (image-4.png) 
+- ![Decomposition Plot](image.png)
+- ![ARIMA - Forecasted Existing Data Plot](image-1.png)
+- ![ARIMA - Future 5 years Forecasting](image-2.png) 
+- ![Facebook Profet Model Prediction](image-3.png)
+- ![Facebook Profet Model - Performance Metrics Plot](image-4.png) 
